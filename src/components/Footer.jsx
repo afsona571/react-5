@@ -2,7 +2,7 @@ import React from 'react';
 import art from '../assets/art.png';
 
 const Footer = () => {
-  //asdsadsadsadsa
+  //asdsadsadsadsaasdsadasda
   return (
     <div
       className="relative bg-cover bg-center h-screen"
