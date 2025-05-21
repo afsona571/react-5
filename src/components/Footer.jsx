@@ -2,12 +2,13 @@ import React from 'react';
 import art from '../assets/art.png';
 
 const Footer = () => {
+  //asdsadsadsadsa
   return (
     <div
       className="relative bg-cover bg-center h-screen"
       style={{ backgroundImage: `url(${art})` }}
     >
-      {/* Темная полупрозрачная подложка */}
+        {/* Темная полупрозрачная подложка */}
       <div className="absolute inset-0 bg-black opacity-40"></div>
 
       {/* Контент поверх фона */}
